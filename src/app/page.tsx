@@ -32,7 +32,7 @@ export default function Home() {
           GitHub
         </a>
         
-        <a href="#" style={{
+        <a href="https://www.linkedin.com/in/gustavokatsuo" target="_blank" style={{
           color: '#00ffcc',
           textDecoration: 'none',
           border: '1px solid #00ffcc',
